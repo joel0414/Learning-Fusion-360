@@ -25,3 +25,7 @@ Click here -> [STL File](<Day_4/Loft_Bottle.stl>)
 ![alt text](<Day_5/Ice_Cube_Tray_Picture.png>)
 Click here -> [STL File](<Day_5/Ice_Cube_Tray.stl>)
 
+## [Day 6 - Hex Nut]()
+
+![alt text](<Day_6/Hex_Nut_Picture.png>)
+Click here -> [STL File](<Day_6/Hex_Nut.stl>)
