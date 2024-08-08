@@ -29,3 +29,8 @@ Click here -> [STL File](<Day_5/Ice_Cube_Tray.stl>)
 
 ![alt text](<Day_6/Hex_Nut_Picture.png>)
 Click here -> [STL File](<Day_6/Hex_Nut.stl>)
+
+## [Day 6 - Bike Handle Bar]()
+
+![alt text](<Day_7/Bike_Handle_Bar_Image.png>)
+Click here -> [STL File](<Day_7/Bike_Handle_Bar.stl>)
