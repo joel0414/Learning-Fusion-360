@@ -19,3 +19,9 @@ Click here -> [STL File](<Day_3/Paper Clip v4.stl>)
 
 ![alt text](<Day_4/Loft_Bottle_Picture.png>)
 Click here -> [STL File](<Day_4/Loft_Bottle.stl>)
+
+## [Day 5 - Ice Cube Tray]()
+
+![alt text](<Day_5/Ice_Cube_Tray_Picture.png>)
+Click here -> [STL File](<Day_5/Ice_Cube_Tray.stl>)
+
